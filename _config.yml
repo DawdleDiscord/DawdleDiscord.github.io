@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   An adult only Discord community! We pride ourselves on being wholesome and welcoming.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: plum
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
