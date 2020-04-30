@@ -65,12 +65,15 @@ author:
     - label: "patreon"
       icon: "fab fa-patreon"
       url: "https://patreon.com/"
+    - label: "Discord"
+      icon: "fab fa-discord"
+      url: "https://discord.gg/dawdle/"
 
 footer:
   links:
     - label: "Discord"
       icon: "fab fa-discord"
-      url: "discord.gg/dawdle"
+      url: "https://discord.gg/dawdle/"
     - label: "Patreon"
       icon: "fab fa-patreon"
       url: "https://patreon.com/"
