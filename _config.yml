@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dawdle"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "We're an adult only Discord community full of wholesomeness and laughs!"
   links:
     - label: "patreon"
       icon: "fab fa-patreon"
