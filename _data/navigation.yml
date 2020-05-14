@@ -1,8 +1,8 @@
 main:
-  - title: "Calendar"
-    url: /calendar/
-  - title: "Events"
-    url: /events/
+#  - title: "Calendar"
+#    url: /calendar/
+#  - title: "Events"
+#    url: /events/
   - title: "Dawdlebot"
     url: /dawdlebot/
   - title: "About"
