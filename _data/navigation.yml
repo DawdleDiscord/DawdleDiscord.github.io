@@ -3,7 +3,9 @@ main:
 #    url: /calendar/
 #  - title: "Events"
 #    url: /events/
-  - title: "Dawdlebot"
-    url: /dawdlebot/
+  - title: "Home"
+     url: /home/
   - title: "About"
     url: /about/
+  - title: "Dawdlebot"
+    url: /dawdlebot/
