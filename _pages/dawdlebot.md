@@ -37,6 +37,8 @@ Required arguments are denoted by `<argument>`, optional arguments are denoted b
 
 `~birthdaymonth <month>` displays all birthdays for that month.
 
+`~trivia` lets you play a game of trivia!
+
 ## Commands: Staff Only
 
 Required arguments are denoted by `<argument>`, optional arguments are denoted by `[argument]`.
