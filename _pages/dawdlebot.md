@@ -193,3 +193,7 @@ Ex: Welcome {ment} to Dawdle!
 `~givebadge <member_or_role> <emoji 1> <emoji 2> ...` gives either `member` or every member in `role` those emojis as badges.
 
 `~takebadge <member_or_role> <emoji 1> <emoji 2> ...` removes from  either `member` or every member in `role` those emojis as badges.
+
+`~cleanbadges <member_or_role>` will remove and badges whose emoji has been deleted or is otherwise not found.
+
+`~cleanprofiles` will delete profile information of any members who left.
