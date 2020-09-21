@@ -75,7 +75,7 @@ footer:
     - label: "Patreon"
       icon: "fab fa-patreon"
       url: "https://www.patreon.com/dawdle"
-      - label: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/DawdleServer"
 
