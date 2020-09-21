@@ -74,7 +74,10 @@ footer:
       url: "https://discord.gg/dawdle/"
     - label: "Patreon"
       icon: "fab fa-patreon"
-      url: "https://patreon.com/"
+      url: "https://www.patreon.com/dawdle"
+      - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/DawdleServer"
 
 
 defaults:
