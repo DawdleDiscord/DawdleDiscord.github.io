@@ -62,10 +62,13 @@ author:
   links:
     - label: "patreon"
       icon: "fab fa-patreon"
-      url: "https://patreon.com/"
+      url: "https://patreon.com/dawdle"
     - label: "Discord"
       icon: "fab fa-discord"
       url: "https://discord.gg/dawdle/"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/DawdleServer"
 
 footer:
   links:
