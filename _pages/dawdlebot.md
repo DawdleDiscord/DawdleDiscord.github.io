@@ -5,22 +5,7 @@ title: "Dawdlebot"
 
 Dawdlebot was made to fill some niche bot roles, but has since expanded to become a general purpose bot for Dawdle. 
 
-[Dawdlebot GitHub](https://github.com/DawdleDiscord/dawdlebot)
-
-### Some Current Features
-
-* Welcome/goodbye messages
-* Photo verification system
-* Cleaning identifying posts of former members
-* Counting VC time
-* Goodnight messages
-* Checking that all members have intro/required roles
-* Anonymous posting
-* Reporting
-* Role changes
-* Birthdays
-* Mass role kicking based on join time
-* Sending server information
+[Dawdlebot GitHub](https://github.com/DawdleDiscord/dawdlebot) <-- Currently private, DM amer for access.
 
 ## Commands: All Members
 Required arguments are denoted by `<argument>`, optional arguments are denoted by `[argument]`.
@@ -51,6 +36,8 @@ Required arguments are denoted by `<argument>`, optional arguments are denoted b
 
 `~editbanner` brings up a menu to enter a link to the image you would like to use for your profile's banner. You need to include the `https://` and it will only work for as long as that link is valid.
 
+`~mywarnings` Shows all your warnings.
+
 ## Commands: Staff Only
 
 Required arguments are denoted by `<argument>`, optional arguments are denoted by `[argument]`.
@@ -73,9 +60,9 @@ All `member` arguments work by ID, mention, username, or nickname. nick/username
 
 ### Warnings
 
-`~warn <member> <rule #> [yes/no]` Will create a warning for `member`. It will ask for context, once you reply the warning will be saved. You can include attachments in the reply. `Yes/no` tells it whether or not to post an admonition. The default option is `yes`. 
+`~warn <member> <rule> [yes/no]` Will create a warning for `member`. It will ask for context, once you reply the warning will be saved. You can include attachments in the reply. `Yes/no` tells it whether or not to post an admonition/DM. The default option is `yes`, unless the `rule` is `verbal` in which case it never posts/DMs. 
 
-`~warnings <member>` Will pull up all warnings of `member`. Reference the warning number to edit/delete warnings.
+`~warnings <member> [verbal/nonverbal]` Will pull up all warnings of `member`. Reference the warning number to edit/delete warnings. `verbal` will only show verbal warnings and `nonverbal` will only show nonverbal warnings.
 
 `~editwarning <member> <warning number>` Edit the context of the `warning number` warning for `member`. Reference `~warning` to find the number. (Cannot edit attachments at this time.)
 
