@@ -7,6 +7,22 @@ Dawdlebot was made to fill some niche bot roles, but has since expanded to becom
 
 [Dawdlebot GitHub](https://github.com/DawdleDiscord/dawdlebot) <-- Currently private, DM amer for access.
 
+Quick staff inks:
+
+* [Moderation](https://dawdlediscord.github.io/dawdlebot/#moderation)
+* [Warnings](https://dawdlediscord.github.io/dawdlebot/#warnings)
+* [Members](https://dawdlediscord.github.io/dawdlebot/#members)
+* [Roles](https://dawdlediscord.github.io/dawdlebot/#roles)
+* [Bot Cleaning](https://dawdlediscord.github.io/dawdlebot/#bot-cleaning)
+* [QOTD](https://dawdlediscord.github.io/dawdlebot/#qotd)
+* [Autoreacts](https://dawdlediscord.github.io/dawdlebot/#autoreacts)
+* [Info](https://dawdlediscord.github.io/dawdlebot/#info)
+* [Birthdays](https://dawdlediscord.github.io/dawdlebot/#birthdays)
+* [Trivia](https://dawdlediscord.github.io/dawdlebot/#trivia)
+* [Welcome/Goodbye](https://dawdlediscord.github.io/dawdlebot/#welcomegoodbye)
+* [Inventories](https://dawdlediscord.github.io/dawdlebot/#inventories)
+* [Profiles](https://dawdlediscord.github.io/dawdlebot/#profiles)
+
 ## Commands: All Members
 Required arguments are denoted by `<argument>`, optional arguments are denoted by `[argument]`.
 
