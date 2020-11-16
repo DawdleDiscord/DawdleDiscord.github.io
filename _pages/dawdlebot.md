@@ -44,6 +44,8 @@ Required arguments are denoted by `<argument>`, optional arguments are denoted b
 
 All `member` arguments work by ID, mention, username, or nickname. nick/usernames can be found by partial matches and are not case sensitive.
 
+`~logout` forces the bot to shutdown in case it's doing something you don't want it to.
+
 ### Moderation
 
 `~ban <member/userid> [rule #]` Bans the member/user. If a rule number is included an admonition is posted as
