@@ -108,9 +108,15 @@ All `member` arguments work by ID, mention, username, or nickname. nick/username
 
 `~roles give <member> <role>` gives the member the role
 
-`~roles remove <member> <role>` removes the role from the member
+`~roles take <member> <role>` removes the role from the member
 
 `~roles kick <role> <hours>` This is the former `kick_role`. It will kick anyone with `role` who joined more than `hours` ago. Only works for @unverified  and @. roles.
+
+`~roles watch add <role>` adds the role to the list of roles being watched. If a role is watched, the bot will send a message when someone gets or loses the role.
+
+`~roles watch remove <role>` removes the role from the list of roles being watched.
+
+`~roles watch list` lists the currently watched roles.
 
 ### Bot Cleaning
 
