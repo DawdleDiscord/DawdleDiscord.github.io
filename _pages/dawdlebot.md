@@ -106,7 +106,7 @@ All `member` arguments work by ID, mention, username, or nickname. nick/username
 
 `~roles members <role>` lists all members who have the role.
 
-`~roles give <member> <role>` gives the member the role
+`~roles give <member> <role> [true/false]` gives the member the role. True (default) shows the list as mentions, false shows as just a list of names. Yes/no also works.
 
 `~roles take <member> <role>` removes the role from the member
 
