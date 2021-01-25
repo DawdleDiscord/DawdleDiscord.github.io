@@ -42,6 +42,8 @@ Required arguments are denoted by `<argument>`, optional arguments are denoted b
 
 `~trivia leaderboard` shows the current leaderboard of trivia streaks.
 
+`~daily` Claims your dawdle daily if you have sent at least 10 messages in basement/parlor and have not claimed your daily since 00:00:00 UTC time.
+
 `~inventory` to see your item inventory from lootboxes.
 
 `~inventory info <item>` shows information about `item`.
@@ -217,3 +219,8 @@ Ex: Welcome {ment} to Dawdle!
 `~cleanbadges <member_or_role>` will remove and badges whose emoji has been deleted or is otherwise not found.
 
 `~cleanprofiles` will delete profile information of any members who left.
+
+###Dailies
+`~daily set <member> <streak>` Sets `member`'s streak to `streak`.
+
+`~daily clean` Cleans out people not in the server anymore from the streak data.
