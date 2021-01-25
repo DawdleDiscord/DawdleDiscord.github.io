@@ -22,6 +22,7 @@ Quick staff inks:
 * [Welcome/Goodbye](https://dawdlediscord.github.io/dawdlebot/#welcomegoodbye)
 * [Inventories](https://dawdlediscord.github.io/dawdlebot/#inventories)
 * [Profiles](https://dawdlediscord.github.io/dawdlebot/#profiles)
+* [Dailies](https://dawdlediscord.github.io/dawdlebot/#dailies)
 
 ## Commands: All Members
 Required arguments are denoted by `<argument>`, optional arguments are denoted by `[argument]`.
