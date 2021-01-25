@@ -221,7 +221,7 @@ Ex: Welcome {ment} to Dawdle!
 
 `~cleanprofiles` will delete profile information of any members who left.
 
-###Dailies
+### Dailies
 `~daily set <member> <streak>` Sets `member`'s streak to `streak`.
 
 `~daily clean` Cleans out people not in the server anymore from the streak data.
